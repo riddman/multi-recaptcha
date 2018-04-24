@@ -1,0 +1,20 @@
+{
+    "name": "riddman/multi-recaptcha",
+    "description": "",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Oleksandr Polishchuk",
+            "email": "forcepoin3@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "albertcht/invisible-recaptcha": "^1.8"
+    },
+    "autoload":{
+        "psr-4":{
+            "Riddman\\MultiRecaptcha\\": "src/"
+        }
+    }
+}
