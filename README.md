@@ -1,9 +1,16 @@
 
 
- <div class="js_google_recaptcha_item"
+
+
+create div in html with attr
+
+	class="js_google_recaptcha_item"
 	id="your_random_unique_ID"
 	data-callback="yourCallbackFunc"
-	data-size="invisible"></div>
+	data-size="invisible"
+
+
+
 
 
 
